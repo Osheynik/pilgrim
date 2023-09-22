@@ -1,4 +1,4 @@
-# Hi there, I'm [Danila](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Danila](https://github.com/Osheynik) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student from Russia (🇷🇺)
 
 The calculator can perform addition, subtraction, multiplication and reading operations with two numbers: a + b, a - b, a * b, a / b. Data is transferred in one form ! Solutions in which every number and arithmic operation is transferred from a new queue are incorrect.

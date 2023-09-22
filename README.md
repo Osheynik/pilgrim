@@ -1,7 +1,7 @@
 # Hi there, I'm [Danila](https://github.com/Osheynik) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student from Russia (🇷🇺)
 
-The calculator can perform addition, subtraction, multiplication and reading operations with two numbers: a + b, a - b, a * b, a / b. Data is transferred in one form ! Solutions in which every number and arithmic operation is transferred from a new queue are incorrect.
+This file contains a folder with the calculator code. The calculator can perform addition, subtraction, multiplication and reading operations with two numbers: a + b, a - b, a * b, a / b. Data is transferred in one form ! Solutions in which every number and arithmic operation is transferred from a new queue are incorrect.
 The calculator can work with both Arabic (1,2,3,4,5...) and Roman (I,II,III,IV,V...) numbers.
 The calculator must accept input numbers from 1 to 10, no more. Ultimately, the restrictions do not apply to the magnitude and can be anything.
 The calculator can only work with integers.
